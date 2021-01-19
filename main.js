@@ -51,7 +51,7 @@ new_image('ironman_face.png');
 console.log("f");
 }
 if(keyPressed == '66') {
-new_image('spider_body.png');
+new_image('download.png');
 console.log("b");
 }
 if(keyPressed == '76') {
